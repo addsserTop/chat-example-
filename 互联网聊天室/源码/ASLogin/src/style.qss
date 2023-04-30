@@ -1,0 +1,32 @@
+#ID_LABEL
+{
+    font:20px
+}
+#ID_EDIT
+{
+    font:20px
+}
+#PWD_LABEL
+{
+    font:20px
+}
+#PWD_EDIT
+{
+    font:20px
+}
+#LOGIN_BUTTON
+{
+    font:30px
+}
+#checkBox
+{
+    font:15px
+}
+#commandLinkButton
+{
+    font:15px
+}
+#wait
+{
+    font:20px
+}
